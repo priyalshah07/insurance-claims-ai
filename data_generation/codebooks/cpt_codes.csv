@@ -1,0 +1,7 @@
+cpt_code,description,avg_charge,requires_auth
+99213,Office visit level 3,150,False
+99214,Office visit level 4,220,False
+93000,Electrocardiogram,180,False
+45378,Colonoscopy,1800,True
+27447,Knee replacement surgery,22000,True
+70551,Brain MRI without contrast,3500,True
